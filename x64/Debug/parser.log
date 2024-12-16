@@ -1,2 +1,4 @@
 ﻿  parser.cpp
+C:\Users\Mikhail\source\repos\parser\parser\parser.cpp(74,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Mikhail\source\repos\parser\parser\parser.cpp(82,6): warning C4101: intVvod: неиспользованная локальная переменная
   parser.vcxproj -> C:\Users\Mikhail\source\repos\parser\x64\Debug\parser.exe
